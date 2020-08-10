@@ -1,0 +1,3 @@
+<launch>
+	<node name="gotoplaces" pkg="slim" type="gotoplaces.py" output="screen"/>
+</launch>

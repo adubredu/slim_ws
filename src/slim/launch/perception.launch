@@ -1,0 +1,3 @@
+<launch>
+	<node name="perception" pkg="slim" type="locate_objects.py" output="screen"/>
+</launch>
